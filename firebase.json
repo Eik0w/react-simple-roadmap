@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "ox-roadmap-front",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
